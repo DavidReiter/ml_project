@@ -15,3 +15,4 @@ This will be implemented using the IRMAS Dataset to learn and test the model.
 - [x] more hyperparameters
 - [x] limit outliers instead of removing them
 - [ ] final decision for a model
+- [ ] feature selection (with random forest)
