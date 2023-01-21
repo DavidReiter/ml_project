@@ -13,5 +13,5 @@ This will be implemented using the IRMAS Dataset to learn and test the model.
 - [ ] spectrum as feature
 - [x] apply PCA with more variance
 - [ ] more hyperparameters
-- [ ] limit outliers instead of removing them
+- [x] limit outliers instead of removing them
 - [ ] final decision for a model
