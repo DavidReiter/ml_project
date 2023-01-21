@@ -12,6 +12,6 @@ This will be implemented using the IRMAS Dataset to learn and test the model.
   - [ ] neural network (normal + pca)
 - [ ] spectrum as feature
 - [x] apply PCA with more variance
-- [ ] more hyperparameters
+- [x] more hyperparameters
 - [x] limit outliers instead of removing them
 - [ ] final decision for a model
