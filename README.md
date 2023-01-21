@@ -8,10 +8,10 @@ This will be implemented using the IRMAS Dataset to learn and test the model.
 - [ ] refactor code
 - [ ] documentation
 - [ ] models
-  - [ ] random forest
-  - [ ] neural network
+  - [ ] random forest (normal + pca)
+  - [ ] neural network (normal + pca)
 - [ ] spectrum as feature
-- [ ] apply PCA with more variance to all models
+- [x] apply PCA with more variance
 - [ ] more hyperparameters
 - [ ] limit outliers instead of removing them
 - [ ] final decision for a model
