@@ -9,7 +9,7 @@ This will be implemented using the IRMAS Dataset to learn and test the model.
 - [ ] documentation
 - [ ] models
   - [ ] random forest (normal + pca) -> explain feature selection
-  - [ ] neural network (normal + pca)
+  - [x] neural network (normal + pca)
 - [ ] spectrum as feature
 - [x] apply PCA with more variance
 - [x] more hyperparameters
