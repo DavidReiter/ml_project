@@ -7,13 +7,15 @@ This will be implemented using the IRMAS Dataset to learn and test the model.
 
 - [ ] refactor code
 - [ ] documentation
-- [ ] models
-  - [ ] random forest (normal + pca) -> explain feature selection
+- [x] models
+  - [x] random forest (normal + pca) -> explain feature selection
   - [x] neural network (normal)
-  - [ ] neural network pca
+  - [x] neural network pca
 - [x] spectrum as feature
 - [x] apply PCA with more variance
 - [x] more hyperparameters
 - [x] limit outliers instead of removing them
-- [ ] outcomment everything regarding nn and run it (tensorflow not working on m1)
-- [ ] final decision for a model
+- [ ] explain why 20 mfcc
+- [ ] outcomment everything regarding NN and run it (tensorflow not working on m1 chip) 
+- [ ] include NN in decision
+- [ ] final decision for a model + explanation
