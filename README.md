@@ -6,7 +6,7 @@ This will be implemented using the IRMAS Dataset to learn and test the model.
 ## TODOs
 
 - [ ] refactor code
-- [ ] documentation
+- [x] documentation
 - [x] models
   - [x] random forest (normal + pca) -> explain feature selection
   - [x] neural network (normal)
@@ -17,6 +17,6 @@ This will be implemented using the IRMAS Dataset to learn and test the model.
 - [x] limit outliers instead of removing them
 - [ ] explain why 20 mfcc
 - [ ] outcomment everything regarding NN and run it (tensorflow not working on m1 chip) 
-- [ ] include NN in decision
-- [ ] final decision for a model + explanation
+- [ ] include NN in final decision section
+- [ ] final decision for a model + explanation + best instruments
 - [ ] formatting for pdf
