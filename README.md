@@ -19,3 +19,4 @@ This will be implemented using the IRMAS Dataset to learn and test the model.
 - [ ] outcomment everything regarding NN and run it (tensorflow not working on m1 chip) 
 - [ ] include NN in decision
 - [ ] final decision for a model + explanation
+- [ ] formatting for pdf
